@@ -18,7 +18,10 @@ See a some screen-shots below.
 
 ##### Choose Language
 
-![Choose language](/screenshots/emissions-tracker/choose-language-en.png)
+| Locale  | Screen-shot                                                  |
+| ------- | ------------------------------------------------------------ |
+| English | ![Choose English](/screenshots/emissions-tracker/choose-language-en.png) |
+| German  | ![Choose German](/screenshots/emissions-tracker/choose-language-de.png) |
 
 ##### Login
 
