@@ -1,5 +1,5 @@
 ---
-typora-root-url: screenshots/emissions-tracker
+typora-root-url: ./
 ---
 
 # Java Swing GUI Portfolio
@@ -24,7 +24,7 @@ See a some screen-shots below.
 
 ##### Create Account
 
-![](/create-account.png)
+![](/screenshots/emissions-tracker/create-account.png)
 
 ##### Emissions Menu
 
