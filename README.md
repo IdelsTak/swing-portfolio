@@ -10,9 +10,21 @@ I created it to serve two locales, English- and German-speaking.
 
 See a some screen-shots below.
 
+##### Choose Language
+
 ![Choose language](https://github.com/IdelsTak/swing-portfolio/blob/master/screenshots/emissions-tracker/choose-language-en.png)
 
+Login
 
+![Login](https://github.com/IdelsTak/swing-portfolio/blob/master/screenshots/emissions-tracker/login.png)
+
+Create Account
+
+Emissions Menu
+
+Travel Emissions
+
+Meat Consumption Emissions
 
 
 
