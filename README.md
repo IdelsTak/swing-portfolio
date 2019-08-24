@@ -1,3 +1,7 @@
+---
+typora-root-url: screenshots/emissions-tracker
+---
+
 # Java Swing GUI Portfolio
 
 A showcase of projects created using Java Swing
@@ -14,17 +18,19 @@ See a some screen-shots below.
 
 ![Choose language](https://github.com/IdelsTak/swing-portfolio/blob/master/screenshots/emissions-tracker/choose-language-en.png)
 
-Login
+##### Login
 
 ![Login](https://github.com/IdelsTak/swing-portfolio/blob/master/screenshots/emissions-tracker/login.png)
 
-Create Account
+##### Create Account
 
-Emissions Menu
+![](/create-account.png)
 
-Travel Emissions
+##### Emissions Menu
 
-Meat Consumption Emissions
+##### Travel Emissions
+
+##### Meat Consumption Emissions
 
 
 
