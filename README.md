@@ -16,21 +16,29 @@ See a some screen-shots below.
 
 ##### Choose Language
 
-![Choose language](https://github.com/IdelsTak/swing-portfolio/blob/master/screenshots/emissions-tracker/choose-language-en.png)
+![Choose language](/screenshots/emissions-tracker/choose-language-en.png)
 
 ##### Login
 
-![Login](https://github.com/IdelsTak/swing-portfolio/blob/master/screenshots/emissions-tracker/login.png)
+![Login](/screenshots/emissions-tracker/login.png)
 
 ##### Create Account
 
-![](/screenshots/emissions-tracker/create-account.png)
+![Create account](/screenshots/emissions-tracker/create-account.png)
 
 ##### Emissions Menu
 
+![Emissions menu](/screenshots/emissions-tracker/choose-emissions-history.png)
+
 ##### Travel Emissions
+
+![Travel emissions](/screenshots/emissions-tracker/travel-emissions.png)
 
 ##### Meat Consumption Emissions
 
+![Meat consumption emissions](/screenshots/emissions-tracker/meat-consumption-emissions.png)
 
+##### Meat Consumption - German
+
+![Meat consumption German](/screenshots/emissions-tracker/using-german-locale.png)
 
