@@ -1,2 +1,4 @@
-# swing-portfolio
-Collection of projects completed using Java Swing
+# Java Swing GUI Portfolio
+
+#### Collection of projects completed using Java Swing
+
